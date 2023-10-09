@@ -14,7 +14,7 @@
     </properties>
 
     <build>
-        <finalName>simpleJavaJenkins</finalName>
+        <finalName>simpleJava</finalName>
     </build>
 
 </project>
